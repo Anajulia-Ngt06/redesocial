@@ -1,0 +1,21 @@
+.bg-preto{
+    background-color: black;
+}
+h2{
+    color: white ;
+    }
+
+footer
+{
+    background-color: aliceblue;
+    height: 100px;
+}
+p{
+ text-align: center;
+}
+h6{
+    color: rgb(46, 80, 190);
+}
+button{
+    text-align: center;
+}
